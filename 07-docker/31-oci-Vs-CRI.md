@@ -221,11 +221,3 @@ Kernel            → enforce isolation & limits
 
 ---
 
-Next deep dives you can add:
-
-* OCI vs CRI vs Docker (diagram-heavy)
-* Walk through a real `config.json`
-* How containerd builds OCI bundles
-* Debugging containers at OCI level
-
-Tell me what to extend next.
