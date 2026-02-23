@@ -6,7 +6,7 @@
 
 Instead of exposing every service with its own LoadBalancer or NodePort, Ingress provides **centralized routing rules** based on:
 
-* Hostname (domain-based routing)
+* Domainname (host-based routing)
 * URL path (path-based routing)
 
 Ingress works at **Layer 7 (HTTP/HTTPS)**.
